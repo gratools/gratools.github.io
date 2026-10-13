@@ -6,7 +6,7 @@ Website: https://gratools.github.io
 
 ## Tools
 
-- **gradesign.** (beta): a free, open source design & presentation studio. Lives in its own repository and is served at https://gratools.github.io/gradesign/
+- **gradesign.** (Early access): a free, open source design & presentation studio. Lives in its own repository and is served at https://gratools.github.io/gradesign/
 
 ## Community
 
